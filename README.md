@@ -1,17 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Felipe Vargas
 ======================================================================================================================================
 
-Embedded Software Engineer // Data Analyst
-------------------------------------------
-
-I am a Computer Science student at Universidad Industrial de Santander specialized in embedded systems, artificial intelligence, and machine learning, with particular focus on TinyML and EdgeAI applications. My technical expertise spans Python/C++ development and data analysis.
+I am a Computer Science student at Universidad Industrial de Santander specialized in artificial intelligence and machine learning, with particular focus on TinyML and EdgeAI applications. My technical expertise spans Python/C++ development and data analysis.
 
 ---
 
 ### About Me
 
 - 🎯 **Goal:** Seeking professional opportunities in **Embedded Software**, **Data Analysis**, or **IoT** to build smart devices and robust industrial solutions.
-- 🌍 **Location:** Colombia 🇨🇴
 * 🧠 **Current Learning:** Computer Vision, ARM architecture, and EdgeAI models.
 
 ---
@@ -45,9 +41,6 @@ I am a Computer Science student at Universidad Industrial de Santander specializ
 
 #### Tools & Environment
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </a>
   <a href="https://cmake.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
   </a>
